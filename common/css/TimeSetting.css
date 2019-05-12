@@ -1,0 +1,25 @@
+.clockpicker-popover {
+    z-index:1050!important ;
+}
+
+.timeSetting > .ui-datepicker-inline {
+    display:block;
+    border:none;
+}
+
+.timeSetting > .ui-datepicker-inline .ui-datepicker-header {
+    width:120%;
+}
+
+.timeSetting > .ui-datepicker-inline .ui-datepicker-calendar {
+    width:120%;
+}
+
+td.time{
+    background-color: #fff;
+    cursor:pointer;
+}
+    
+td.time:hover {
+    background-color: #eee;
+}

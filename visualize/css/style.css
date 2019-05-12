@@ -1,0 +1,101 @@
+.search-label{
+    padding-top:5px;
+}
+
+.bootstrap-tagsinput {
+    min-height: 31px !important;
+}
+
+.bootstrap-tagsinput .label{
+    display:inline-block !important;
+    line-height: 13px !important;
+    margin-bottom: 3px !important;
+    text-align: center !important;
+    color: #fff !important;
+}
+
+.bootstrap-tagsinput .tag [data-role=remove] {
+    padding: 3px 0px 0px 0px !important;
+    height:19px !important;
+}
+
+.left-field-area{
+    padding-right: 5px;
+}
+
+.left-top-table {
+    width:100%;
+    border-bottom : 1px dashed gray;
+}
+
+.left-top-table>tbody>tr>td:first-child {
+    width:40%;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.left-mid-table {
+    width:100%;
+    margin-top:15px;
+}
+
+.left-mid-table>tbody>tr {
+    line-height: 35px;
+}
+
+.left-mid-table>tbody>tr>td:first-child {
+    width:60%;
+    text-align: left;
+    padding-left: 5px;
+    text-decoration:underline;
+}
+
+.lookup-table {
+    width:100%;
+}
+
+.lookup-table>tbody>tr {
+    line-height: 35px;
+}
+
+.lookup-table>tbody>tr>td:first-child {
+    width:60%;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.jarviswidget {
+    margin-bottom:5px !important;
+}
+
+.pointer, .left-mid-table>tbody>tr>td:first-child>span {
+    cursor: pointer;
+}
+
+.left-mid-table>tbody>tr>td:first-child>span {
+    font-size:13px;
+}
+
+.left-bottom-table {
+    width:100%;
+}
+
+.left-bottom-table>tbody>tr>td:first-child {
+    width:60%;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.search-area .form-group {
+    margin-bottom:8px !important;
+}
+
+.search-area .widget-body {
+    padding-bottom:0px !important;
+}
+
+.chart-select-button {
+    background-color: #fff;
+    height:106px;
+    width:100px;
+}
